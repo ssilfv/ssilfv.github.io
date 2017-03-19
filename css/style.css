@@ -1,0 +1,69 @@
+.profile-pic {
+	max-width: 100%
+}
+
+.underLine-text {text-decoration: underline;
+}
+
+.navbar { 
+	background-color: silver;
+}
+
+.mynav {
+	width: 100%; 
+	justify-content: center;
+}
+
+.fa {
+	color: black !important;
+}
+
+.fa: hover {
+	color: blue; }
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+body {
+background-image: url(../img/steel.jpg); 
+}
+
+.mycustomprogressbar {
+		background-color: grey;
+}
+
+.card {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.myvideo {
+	width: 75%;
+	height: 50%;
+}
+/*This is where my picture ends*/
+
+.homebox{
+  color: white;
+  margin-top: 15%;
+   }
+
+.home-page {
+	background-image: url('../img/rudster.jpg');
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
